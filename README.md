@@ -1,5 +1,5 @@
 # Spring
-Building REST services with Spring
+Simplifying the creation of a link to the aggregate root
 
 ## Project Configurations
 - Maven Project
