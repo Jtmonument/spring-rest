@@ -1,5 +1,5 @@
 # Spring
-Building REST services with Spring
+Create a more RESTful service (Hypermedia becoming the engine of application state)
 
 ## Project Configurations
 - Maven Project
