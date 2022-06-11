@@ -1,6 +1,11 @@
 # Spring
 Building REST services with Spring
 
+## Branches
+- [Remote Procedure Call](https://github.com/Jtmonument/spring-rest/tree/rpc)
+- [REST API](https://github.com/Jtmonument/spring-rest/tree/rest)
+- [RepresentationModelAssembler](https://github.com/Jtmonument/spring-rest/tree/model-assembler)
+
 ## Project Configurations
 - Maven Project
 - Java (version 17)
