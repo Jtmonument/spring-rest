@@ -1,5 +1,5 @@
 # Spring
-Building REST services with Spring
+Demonstrate Remote Procedure Call
 
 ## Project Configurations
 - Maven Project
